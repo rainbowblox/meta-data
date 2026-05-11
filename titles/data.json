@@ -13,16 +13,17 @@
       "social": {"likes": "12.3k", "views": "98.7k", "comments": "1.2k"}
     },
     {
-      "title": "That Time I Got Reincarnated as a Slime Season 4",
-      "description": "Dynamiczna seria akcji o młodym bohaterze walczącym z siłami zła.",
-      "release": "2026",
-      "image": "/meta-data/images/obrazek2.jpg",
-      "episodes": 24,
-      "type": "TV",
-      "tags": ["akcja", "przygodowe"],
-      "quality": "HD",
-      "rating": "PG-13"
-    },
+  "title": "That Time I Got Reincarnated as a Slime Season 4",
+  "description": "Sezon 4 kontynuuje opowieść o Rimuru i Jura‑Tempest Federation; rozpoczyna się wątkiem rodziny Rosso i konfliktem o przyszłość współistnienia ludzi i potworów.",
+  "release": "2026",
+  "image": "https://nazwa.github.io/meta-data/images/obrazek2.jpg",
+  "episodes": 60,
+  "type": "TV",
+  "tags": ["Action","Adventure","Fantasy","Comedy","Drama"],
+  "quality": "HD",
+  "rating": null,
+  "social": {"likes": "12.3k", "views": "98.7k", "comments": "1.2k"}
+},
     {
       "title": "Tytuł C",
       "description": "Krótsza, eksperymentalna seria ONA o relacjach i dorastaniu.",
