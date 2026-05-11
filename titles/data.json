@@ -2,21 +2,114 @@
   "titles": [
     {
       "title": "Witch Hat Atelier",
-      "description": "Coco, a humble dressmaker’s daughter...",
+      "description": "Coco, a humble dressmaker’s daughter, discovers a forbidden secret and pursues the path to becoming a witch while uncovering hidden dangers.",
       "release": "2026",
       "image": "/meta-data/images/obrazek.jpg",
       "episodes": 12,
       "type": "TV",
-      "tags": ["fantasy", "adventure"],
+      "tags": ["fantasy", "adventure", "magic"],
+      "quality": "HD",
+      "rating": "PG-13",
       "social": {"likes": "12.3k", "views": "98.7k", "comments": "1.2k"}
     },
     {
-      "title": "Inny Tytuł",
+      "title": "Tytuł B",
+      "description": "Dynamiczna seria akcji o młodym bohaterze walczącym z siłami zła.",
       "release": "2026",
       "image": "/meta-data/images/obrazek2.jpg",
       "episodes": 24,
       "type": "TV",
-      "tags": ["akcja"]
+      "tags": ["akcja", "przygodowe"],
+      "quality": "HD",
+      "rating": "PG-13"
+    },
+    {
+      "title": "Tytuł C",
+      "description": "Krótsza, eksperymentalna seria ONA o relacjach i dorastaniu.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek3.jpg",
+      "episodes": null,
+      "type": "ONA",
+      "tags": ["dramat", "slice of life"],
+      "quality": "HD",
+      "rating": "R"
+    },
+    {
+      "title": "Tytuł D",
+      "description": "Pełnometrażowy film fantasy opowiadający o starożytnej przepowiedni.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek4.jpg",
+      "episodes": 1,
+      "type": "MOVIE",
+      "tags": ["fantasy", "dramat"],
+      "quality": "HD",
+      "rating": "PG-13"
+    },
+    {
+      "title": "Tytuł E",
+      "description": "Komedio‑romans w formie OVA, krótka i zabawna historia.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek5.jpg",
+      "episodes": 6,
+      "type": "OVA",
+      "tags": ["komedia", "romans"],
+      "quality": "HD",
+      "rating": "PG"
+    },
+    {
+      "title": "Tytuł F",
+      "description": "Mroczny thriller psychologiczny osadzony w futurystycznym mieście.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek6.jpg",
+      "episodes": 13,
+      "type": "TV",
+      "tags": ["thriller", "sci-fi"],
+      "quality": "HD",
+      "rating": "R"
+    },
+    {
+      "title": "Tytuł G",
+      "description": "Mystery z elementami nadprzyrodzonymi i powolnym budowaniem napięcia.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek7.jpg",
+      "episodes": null,
+      "type": "TV",
+      "tags": ["mystery", "horror"],
+      "quality": "HD",
+      "rating": "R"
+    },
+    {
+      "title": "Tytuł H",
+      "description": "Ciepła seria slice of life o codziennych radościach i drobnych dramatach.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek8.jpg",
+      "episodes": 10,
+      "type": "TV",
+      "tags": ["slice of life", "komedia"],
+      "quality": "HD",
+      "rating": "PG"
+    },
+    {
+      "title": "Tytuł I",
+      "description": "Krótkie OVA z elementami fantasy i humoru.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek9.jpg",
+      "episodes": 3,
+      "type": "OVA",
+      "tags": ["fantasy", "komedia"],
+      "quality": "HD",
+      "rating": "PG"
+    },
+    {
+      "title": "Tytuł J",
+      "description": "Serial akcji z intensywnymi scenami walki i rozbudowaną mitologią.",
+      "release": "2026",
+      "image": "/meta-data/images/obrazek10.jpg",
+      "episodes": 0,
+      "type": "TV",
+      "tags": ["akcja", "fantasy"],
+      "quality": "HD",
+      "rating": "PG-13"
     }
   ]
 }
