@@ -7,8 +7,8 @@
       "image": "/meta-data/images/obrazek.jpg",
       "episodes": 12,
       "type": "TV",
-      "tags": ["fantasy","adventure"],
-      "social": {"likes":"12.3k","views":"98.7k","comments":"1.2k"}
+      "tags": ["fantasy", "adventure"],
+      "social": {"likes": "12.3k", "views": "98.7k", "comments": "1.2k"}
     },
     {
       "title": "Inny Tytuł",
@@ -18,6 +18,5 @@
       "type": "TV",
       "tags": ["akcja"]
     }
-    // ...
   ]
 }
